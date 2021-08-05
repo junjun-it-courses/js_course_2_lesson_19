@@ -6,16 +6,25 @@
 
 // catName("Серый");
 //
+//
+// // Function declaration
 // function catName(name) {
 //     console.log("Моего кота зовут " + name);
 // }
-
+//
+//
+// func();
+//
+// var func = function() {
+//     console.log('sad')
+// }
 
 
 /* не генерирует ошибку, так как num объявлен */
 
 // num = 6;
 // num + 7;
+//
 // var num;
 // console.log(num)
 
@@ -25,6 +34,7 @@
 // var x = 1; // Инициализируем x
 // console.log(x + " " + y);  // '1 undefined'
 // var y = 2;
+
 // код выше и код ниже одинаковые
 
 // var x = 1; // Инициализируем x

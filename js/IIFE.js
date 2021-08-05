@@ -7,15 +7,18 @@
 // Переменные внутри функции не могут быть использованы за пределами
 // её области видимости.
 
+
+// var a = 1;
+// function func() {};
+
+
 // (function () {
 //     let aName = "Barry";
-//
 //
 //
 // })();
 //
 // console.log(aName)
-
 
 // let result = (function () {
 //     let name = "Barry";

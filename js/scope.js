@@ -38,8 +38,8 @@
 //     var y = 3;
 //     let x = 2;
 //     const z = 15;
-//     console.log(x)
-//     console.log(z)
+    // console.log(x)
+    // console.log(z)
 // }
 //
 // console.log(y)
